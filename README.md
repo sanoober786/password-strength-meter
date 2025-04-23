@@ -1,7 +1,9 @@
 🔐 Password Strength Checker
+
 Welcome to the Password Strength Checker, a friendly and interactive Streamlit app that helps you create stronger, more secure passwords — because your digital security starts with a good password. 💪
 
 🚀 Features
+
 🔍 Real-time password strength evaluation
 
 ✅ Checks for:
@@ -20,6 +22,13 @@ Special characters
 
 🧠 Built with Python and Streamlit
 
+Install the required packages:
+
+pip install -r requirements.txt
+
+Run the app:
+
+streamlit run app.py
 
 🛡️ Disclaimer
 This app checks password structure only. It does not send, store, or log any password data. Everything runs locally and securely in your browser.
